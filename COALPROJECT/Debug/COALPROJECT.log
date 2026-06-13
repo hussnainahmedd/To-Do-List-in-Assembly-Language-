@@ -1,0 +1,3 @@
+﻿  Assembling main.asm...
+main.obj : warning LNK4258: directive '/ENTRY:main@0' not compatible with switch '/ENTRY:main'; ignored
+  COALPROJECT.vcxproj -> C:\Users\husss\OneDrive\Desktop\COAL Project\COALPROJECT\Debug\COALPROJECT.exe

@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\husss\\OneDrive\\Desktop\\COAL Project\\COALPROJECT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44672BC2-AC7A-4A77-A8A6-59DE9C1EA63A}|COALPROJECT\\COALPROJECT.vcxproj|C:\\Users\\husss\\OneDrive\\Desktop\\COAL Project\\COALPROJECT\\COALPROJECT\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{44672BC2-AC7A-4A77-A8A6-59DE9C1EA63A}|COALPROJECT\\COALPROJECT.vcxproj|solutionrelative:COALPROJECT\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\MSBuild\\Microsoft\\VC\\v180\\BuildCustomizations\\masm.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "masm.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\MSBuild\\Microsoft\\VC\\v180\\BuildCustomizations\\masm.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\MSBuild\\Microsoft\\VC\\v180\\BuildCustomizations\\masm.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\MSBuild\\Microsoft\\VC\\v180\\BuildCustomizations\\masm.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\MSBuild\\Microsoft\\VC\\v180\\BuildCustomizations\\masm.targets",
+              "ViewState": "AgIAADMAAAAAAAAAAAAvwEYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-06-11T11:02:05.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.asm",
+              "DocumentMoniker": "C:\\Users\\husss\\OneDrive\\Desktop\\COAL Project\\COALPROJECT\\COALPROJECT\\main.asm",
+              "RelativeDocumentMoniker": "COALPROJECT\\main.asm",
+              "ToolTip": "C:\\Users\\husss\\OneDrive\\Desktop\\COAL Project\\COALPROJECT\\COALPROJECT\\main.asm*",
+              "RelativeToolTip": "COALPROJECT\\main.asm*",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwC4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-04T07:12:57.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
